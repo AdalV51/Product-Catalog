@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+databases[aiosqlite]
+python-dotenv
+pydantic-settings
+python-jose
+passlib
+bcrypt
+pyjwt
+apscheduler
+pytest-fastapi-deps
+pytest
+httpx
